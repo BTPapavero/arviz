@@ -69,23 +69,11 @@ huohou
 
 ## Statement of individual contributions
 
-
-Contributions
-Tasks accomplished
-Franco Marcon
-
-
-Benjamin Papavero
-
-
-Gonzalo Vela
-
-
-Roberto Ramirez 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+**Tasks accomplished:**
+Franco Marcon ->
+Benjamin Papavero ->
+Gonzalo Vela ->
+Roberto Ramirez ->
 
 
 
