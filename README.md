@@ -70,10 +70,10 @@ huohou
 ## Statement of individual contributions
 
 **Tasks accomplished:**
-Franco Marcon ->
-Benjamin Papavero ->
-Gonzalo Vela ->
-Roberto Ramirez ->
+- Franco Marcon ->
+- Benjamin Papavero ->
+- Gonzalo Vela ->
+- Roberto Ramirez ->
 
 
 
