@@ -2,13 +2,13 @@
 
 ## Project chosen
 
-Name: ArviZ
+- Name: ArviZ
 
-URL: https://github.com/BTPapavero/arviz.git 
+- URL: https://github.com/BTPapavero/arviz.git 
 
-Number of lines of code and the tool used to count it: 36753, Lizard
+- Number of lines of code and the tool used to count it: 36753, Lizard
 
-Programming language: Python
+- Programming language: Python
 
 ## Coverage measurement
 
@@ -18,9 +18,9 @@ This task was accomplished by the use of the tool “Coverage.py”.
 
 Coverage results:
 
--CLI (Command-Line-Interface):
+- CLI (Command-Line-Interface):
 
--Report:
+- Report:
 huohou
 
 ### Your own coverage tool
