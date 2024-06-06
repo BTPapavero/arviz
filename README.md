@@ -82,6 +82,10 @@ Gonzalo Vela
 
 
 Roberto Ramirez 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 
